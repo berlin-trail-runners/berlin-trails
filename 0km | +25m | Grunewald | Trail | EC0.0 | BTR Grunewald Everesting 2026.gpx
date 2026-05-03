@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <name>grunewald everesting</name>
+  <author>
+   <name>Paulo MC</name>
+   <link href="https://www.strava.com/athletes/16658638"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/3485574101774522520"/>
+ </metadata>
+ <trk>
+  <name>grunewald everesting</name>
+  <link href="https://www.strava.com/routes/3485574101774522520"/>
+  <type>trail_running</type>
+  <trkseg>
+   <trkpt lat="52.50204" lon="13.242930000000001">
+    <ele>47.39</ele>
+   </trkpt>
+   <trkpt lat="52.501830000000005" lon="13.243480000000002">
+    <ele>52.93000000000001</ele>
+   </trkpt>
+   <trkpt lat="52.50162" lon="13.244100000000001">
+    <ele>60.730000000000004</ele>
+   </trkpt>
+   <trkpt lat="52.50137" lon="13.24468">
+    <ele>69.05</ele>
+   </trkpt>
+   <trkpt lat="52.50122" lon="13.24491">
+    <ele>72.37</ele>
+   </trkpt>
+   <trkpt lat="52.50137" lon="13.24468">
+    <ele>69.05</ele>
+   </trkpt>
+   <trkpt lat="52.50162" lon="13.244100000000001">
+    <ele>60.730000000000004</ele>
+   </trkpt>
+   <trkpt lat="52.501830000000005" lon="13.243480000000002">
+    <ele>52.93000000000001</ele>
+   </trkpt>
+   <trkpt lat="52.50204" lon="13.242930000000001">
+    <ele>47.39</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
