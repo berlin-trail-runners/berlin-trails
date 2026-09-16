@@ -1,7 +1,7 @@
 # Berlin Trails
 
-Trail running routes in and around Berlin, collected by Berlin Trail Runners —
-a group of volunteers who spend their weekends finding out where the trails go.
+Trail running routes in and around Berlin, collected by Berlin Trail Runners.
+We are a group of runners meeting on the weekends in and around Berlin.
 
 Every route here has been run by the club. Each one is a GPX file you can load
 into a watch or phone, and most also have a Komoot tour and some a Strava route.
