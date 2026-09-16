@@ -194,7 +194,7 @@
     "distance_km": 14,
     "elevation_m": 130,
     "ec": 12.5,
-    "komoot": null,
+    "komoot": "2902524584",
     "strava": null
   },
   {
@@ -227,8 +227,8 @@
     "distance_km": 14,
     "elevation_m": 222,
     "ec": 32.1,
-    "komoot": null,
-    "strava": null
+    "komoot": "2532148944",
+    "strava": "3395794374711283108"
   },
   {
     "file": "14km | +250m | Buckow  | Trail | EC28.4 | Märkische Schweiz Early Exit.gpx",
@@ -689,7 +689,7 @@
     "distance_km": 21,
     "elevation_m": 180,
     "ec": 15.1,
-    "komoot": null,
+    "komoot": "2881954002",
     "strava": null
   },
   {
