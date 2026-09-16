@@ -1,7 +1,7 @@
 # Berlin Trails
 
 Trail running routes in and around Berlin, collected by
-[Berlin Trail Runners](https://www.komoot.com/user/5008411003785).
+[Berlin Trail Runners](https://www.strava.com/clubs/1572569).
 
 Every route here has been run by the club. Each one is a GPX file you can load
 into a watch or phone, and most also have a Komoot tour and some a Strava route.
