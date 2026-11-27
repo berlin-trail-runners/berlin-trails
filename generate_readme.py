@@ -41,6 +41,9 @@ def check(routes):
         problems.append(f"in routes.json but no such file: {missing}")
     for orphan in sorted(on_disk - listed):
         problems.append(f"on disk but missing from routes.json: {orphan}")
+    for r in routes:
+        if r.get("early_exit_of") and r["early_exit_of"] not in listed:
+            problems.append(f"early_exit_of points at an unlisted route: {r['file']}")
 
     return problems
 
