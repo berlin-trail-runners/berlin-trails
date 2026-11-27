@@ -47,8 +47,8 @@
     "early_exit_of": "22km | +107m | Grunewald | Trail | EC9.8 | S Heerstr -> S Grunewald -> S Heerstr.gpx"
   },
   {
-    "file": "11km | +60m | Grunewald | Trail | EC11.8 | Mostly flat Early exit.gpx",
-    "name": "Mostly flat Early exit",
+    "file": "11km | +60m | Grunewald | Trail | EC11.8 | Mostly flat early exit.gpx",
+    "name": "Mostly flat early exit",
     "area": "Grunewald",
     "surface": "Trail",
     "distance_km": 11,
@@ -59,8 +59,8 @@
     "early_exit_of": "23km | +100m | Grunewald | Trail | EC8.6 | Mostly flat.gpx"
   },
   {
-    "file": "11km | +63m | Grunewald | Trail | EC12.4 | Extended Tzampas Early Exit.gpx",
-    "name": "Extended Tzampas Early Exit",
+    "file": "11km | +63m | Grunewald | Trail | EC12.4 | Extended Tzampas early exit.gpx",
+    "name": "Extended Tzampas early exit",
     "area": "Grunewald",
     "surface": "Trail",
     "distance_km": 11,
@@ -71,8 +71,8 @@
     "early_exit_of": "21km | +210m | Grunewald | Trail | EC19.7 | Extended Tzampas.gpx"
   },
   {
-    "file": "11km | +90m | Grunewald | Trail | EC15.1 | Mostly Flat | Early Exit.gpx",
-    "name": "Mostly Flat | Early Exit",
+    "file": "11km | +90m | Grunewald | Trail | EC15.1 | Mostly Flat early exit.gpx",
+    "name": "Mostly Flat early exit",
     "area": "Grunewald",
     "surface": "Trail",
     "distance_km": 11,
@@ -154,8 +154,8 @@
     "early_exit_of": "18km | +188m | Grunewald | Trail | EC20.7 | Murellenschlucht Mirrors.gpx"
   },
   {
-    "file": "13km | +137m | Grunewald | Trail | EC19.0 | Five Climbs Early Exit.gpx",
-    "name": "Five Climbs Early Exit",
+    "file": "13km | +137m | Grunewald | Trail | EC19.0 | Five Climbs early exit.gpx",
+    "name": "Five Climbs early exit",
     "area": "Grunewald",
     "surface": "Trail",
     "distance_km": 13,
@@ -202,8 +202,8 @@
     "early_exit_of": "18km | +150m | Grunewald | Trail | EC13.8 | Rowing Club Loop.gpx"
   },
   {
-    "file": "14km | +130m | Grunewald | Trail | EC12.5 | Grunewald Lakes Early Exit.gpx",
-    "name": "Grunewald Lakes Early Exit",
+    "file": "14km | +130m | Grunewald | Trail | EC12.5 | Gruni Lakes With Three Peaks early exit.gpx",
+    "name": "Gruni Lakes With Three Peaks early exit",
     "area": "Grunewald",
     "surface": "Trail",
     "distance_km": 14,
@@ -250,8 +250,8 @@
     "early_exit_of": "21km | +299m | Potsdam Süd | Mixed | EC28.8 | Long with Ravensberg.gpx"
   },
   {
-    "file": "14km | +250m | Buckow  | Trail | EC28.4 | Märkische Schweiz Early Exit.gpx",
-    "name": "Märkische Schweiz Early Exit",
+    "file": "14km | +250m | Buckow | Trail | EC28.4 | Märkische Schweiz early exit.gpx",
+    "name": "Märkische Schweiz early exit",
     "area": "Buckow",
     "surface": "Trail",
     "distance_km": 14,
@@ -344,8 +344,8 @@
     "early_exit_of": "23km | +228m | Wannsee Düppeler Forst | Trail | EC20.2 | Castles and forests.gpx"
   },
   {
-    "file": "16km | +170m | Wannsee | Trail | EC20.4 | Düppeler Forst - Early Exit.gpx",
-    "name": "Düppeler Forst - Early Exit",
+    "file": "16km | +170m | Wannsee | Trail | EC20.4 | Düppeler Forst early exit.gpx",
+    "name": "Düppeler Forst early exit",
     "area": "Wannsee",
     "surface": "Trail",
     "distance_km": 16,
@@ -353,7 +353,7 @@
     "ec": 20.4,
     "komoot": "2933794072",
     "strava": "3486465019741694782",
-    "early_exit_of": "22km | +260m | Wannsee | Trail | EC22.2 | Düppeler Forst .gpx"
+    "early_exit_of": "22km | +260m | Wannsee | Trail | EC22.2 | Düppeler Forst.gpx"
   },
   {
     "file": "16km | +213m | Grunewald | Trail | EC24.5 | Run to Berlin Trail Testival Spring 2026.gpx",
@@ -367,8 +367,8 @@
     "strava": "3477079542793686756"
   },
   {
-    "file": "16km | +220m | Potsdam  | Trail | EC24.9 | Potsdam Social Trail Run Early Exit.gpx",
-    "name": "Potsdam Social Trail Run Early Exit",
+    "file": "16km | +220m | Potsdam | Trail | EC24.9 | Potsdam Social Trail Run early exit.gpx",
+    "name": "Potsdam Social Trail Run early exit",
     "area": "Potsdam",
     "surface": "Trail",
     "distance_km": 16,
@@ -376,7 +376,7 @@
     "ec": 24.9,
     "komoot": "2833665536",
     "strava": "3469405795261031478",
-    "early_exit_of": "25km | +290m | Potsdam  | Trail | EC21.2 | Potsdam Social Trail Run .gpx"
+    "early_exit_of": "25km | +290m | Potsdam | Trail | EC21.2 | Potsdam Social Trail Run.gpx"
   },
   {
     "file": "16km | +220m | Potsdam | Trail | EC24.4 | Ravensberge Social early exit.gpx",
@@ -402,7 +402,7 @@
     "strava": "3385672968221039140"
   },
   {
-    "file": "16km | +30m | Grünau  | Trail | EC3.2 | Krumme Lake & Dahme.gpx",
+    "file": "16km | +30m | Grünau | Trail | EC3.2 | Krumme Lake & Dahme.gpx",
     "name": "Krumme Lake & Dahme",
     "area": "Grünau",
     "surface": "Trail",
@@ -436,8 +436,8 @@
     "early_exit_of": "22km | +410m | Grunewald | Trail | EC33.6 | Let's climb those hills.gpx"
   },
   {
-    "file": "16km | +350m | Bad Freienwalde | Trail | EC39.1 | Märkischer Gipfelstürmer - Early Exit.gpx",
-    "name": "Märkischer Gipfelstürmer - Early Exit",
+    "file": "16km | +350m | Bad Freienwalde | Trail | EC39.1 | Märkischer Gipfelstürmer early exit.gpx",
+    "name": "Märkischer Gipfelstürmer early exit",
     "area": "Bad Freienwalde",
     "surface": "Trail",
     "distance_km": 16,
@@ -714,9 +714,9 @@
     "strava": "3460328107673962402"
   },
   {
-    "file": "21km | +180m | Krumme Lake & Müggelberge | Trail | EC15.1 | Grünau.gpx",
-    "name": "Grünau",
-    "area": "Krumme Lake & Müggelberge",
+    "file": "21km | +180m | Grünau | Trail | EC15.1 | Krumme Lake & Müggelberge.gpx",
+    "name": "Krumme Lake & Müggelberge",
+    "area": "Grünau",
     "surface": "Trail",
     "distance_km": 21,
     "elevation_m": 180,
@@ -824,7 +824,7 @@
     "strava": "3531564258932630112"
   },
   {
-    "file": "22km | +260m | Wannsee | Trail | EC22.2 | Düppeler Forst .gpx",
+    "file": "22km | +260m | Wannsee | Trail | EC22.2 | Düppeler Forst.gpx",
     "name": "Düppeler Forst",
     "area": "Wannsee",
     "surface": "Trail",
@@ -934,7 +934,7 @@
     "strava": "3427340063010143094"
   },
   {
-    "file": "25km | +290m | Potsdam  | Trail | EC21.2 | Potsdam Social Trail Run .gpx",
+    "file": "25km | +290m | Potsdam | Trail | EC21.2 | Potsdam Social Trail Run.gpx",
     "name": "Potsdam Social Trail Run",
     "area": "Potsdam",
     "surface": "Trail",
@@ -990,9 +990,9 @@
     "early_exit_of": "18km | +290m | Grunewald | Trail | EC31.9 | #2 Gruni (S Heerstr. water fountain).gpx"
   },
   {
-    "file": "14km | +151m | Potsdam  | Mixed | EC20.9 | Ravensberge Early Exit.gpx",
-    "name": "Ravensberge Early Exit",
-    "area": "Potsdam ",
+    "file": "14km | +151m | Potsdam | Mixed | EC20.9 | Ravensberge early exit.gpx",
+    "name": "Ravensberge early exit",
+    "area": "Potsdam",
     "surface": "Mixed",
     "distance_km": 14,
     "elevation_m": 151,
@@ -1002,8 +1002,8 @@
     "early_exit_of": "24km | +232m | Potsdam | Mixed | EC19.2 | Ravensberge.gpx"
   },
   {
-    "file": "14km | +78m | Wannsee | Trail | EC11.5 | Half HHW to Gruni Tower Early Exit.gpx",
-    "name": "Half HHW to Gruni Tower Early Exit",
+    "file": "14km | +78m | Wannsee | Trail | EC11.5 | Half HHW to Gruni Tower early exit.gpx",
+    "name": "Half HHW to Gruni Tower early exit",
     "area": "Wannsee",
     "surface": "Trail",
     "distance_km": 14,
@@ -1011,11 +1011,11 @@
     "ec": 11.5,
     "komoot": null,
     "strava": "3552399153759417736",
-    "early_exit_of": "22km | +145m | Wannsee  | Trail | EC13.4 | Half HHW to Gruni Tower.gpx"
+    "early_exit_of": "22km | +145m | Wannsee | Trail | EC13.4 | Half HHW to Gruni Tower.gpx"
   },
   {
-    "file": "15km | +168m | Potsdam | Mixed | EC22.5 | Sightseeing Early exit .gpx",
-    "name": "Sightseeing Early exit ",
+    "file": "15km | +168m | Potsdam | Mixed | EC22.5 | Potsdam Sightseeing early exit.gpx",
+    "name": "Potsdam Sightseeing early exit",
     "area": "Potsdam",
     "surface": "Mixed",
     "distance_km": 15,
@@ -1023,7 +1023,7 @@
     "ec": 22.5,
     "komoot": null,
     "strava": "3559992996799878530",
-    "early_exit_of": "21km | +202m | Potsdam  | Mixed | EC19.0 | Potsdam Sightseeing.gpx"
+    "early_exit_of": "21km | +202m | Potsdam | Mixed | EC19.0 | Potsdam Sightseeing.gpx"
   },
   {
     "file": "15km | +389m | Grunewald | Trail | EC51.9 | Trail Testival Autumn 2026.gpx",
@@ -1037,9 +1037,9 @@
     "strava": "3543255638357800406"
   },
   {
-    "file": "21km | +202m | Potsdam  | Mixed | EC19.0 | Potsdam Sightseeing.gpx",
+    "file": "21km | +202m | Potsdam | Mixed | EC19.0 | Potsdam Sightseeing.gpx",
     "name": "Potsdam Sightseeing",
-    "area": "Potsdam ",
+    "area": "Potsdam",
     "surface": "Mixed",
     "distance_km": 21,
     "elevation_m": 202,
@@ -1048,9 +1048,9 @@
     "strava": "3560000321487570306"
   },
   {
-    "file": "22km | +145m | Wannsee  | Trail | EC13.4 | Half HHW to Gruni Tower.gpx",
+    "file": "22km | +145m | Wannsee | Trail | EC13.4 | Half HHW to Gruni Tower.gpx",
     "name": "Half HHW to Gruni Tower",
-    "area": "Wannsee ",
+    "area": "Wannsee",
     "surface": "Trail",
     "distance_km": 22,
     "elevation_m": 145,
