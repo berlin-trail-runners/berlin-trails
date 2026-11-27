@@ -987,5 +987,108 @@
     "komoot": "2651915646",
     "strava": null,
     "early_exit_of": "18km | +290m | Grunewald | Trail | EC31.9 | #2 Gruni (S Heerstr. water fountain).gpx"
+  },
+  {
+    "file": "14km | +100m | Wannsee | Trail | EC12.8 | Half HHW EARLY EXIT.gpx",
+    "name": "Half HHW EARLY EXIT",
+    "area": "Wannsee",
+    "surface": "Trail",
+    "distance_km": 14,
+    "elevation_m": 100,
+    "ec": 12.8,
+    "komoot": null,
+    "strava": null,
+    "early_exit_of": "22km | +250m | Wannsee | Trail | EC18.0 | Half HHW to Gruni Tower.gpx"
+  },
+  {
+    "file": "14km | +151m | Potsdam  | Mixed | EC20.9 | Ravensberge Early Exit.gpx",
+    "name": "Ravensberge Early Exit",
+    "area": "Potsdam ",
+    "surface": "Mixed",
+    "distance_km": 14,
+    "elevation_m": 151,
+    "ec": 20.9,
+    "komoot": null,
+    "strava": null,
+    "early_exit_of": "24km | +232m | Potsdam | Mixed | EC19.2 | Ravensberge.gpx"
+  },
+  {
+    "file": "14km | +78m | Wannsee | Trail | EC11.5 | Half HHW to Gruni Tower Early Exit.gpx",
+    "name": "Half HHW to Gruni Tower Early Exit",
+    "area": "Wannsee",
+    "surface": "Trail",
+    "distance_km": 14,
+    "elevation_m": 78,
+    "ec": 11.5,
+    "komoot": null,
+    "strava": null,
+    "early_exit_of": "22km | +145m | Wannsee  | Trail | EC13.4 | Half HHW to Gruni Tower.gpx"
+  },
+  {
+    "file": "15km | +168m | Potsdam | Mixed | EC22.5 | Sightseeing Early exit .gpx",
+    "name": "Sightseeing Early exit ",
+    "area": "Potsdam",
+    "surface": "Mixed",
+    "distance_km": 15,
+    "elevation_m": 168,
+    "ec": 22.5,
+    "komoot": null,
+    "strava": null,
+    "early_exit_of": "21km | +202m | Potsdam  | Mixed | EC19.0 | Potsdam Sightseeing.gpx"
+  },
+  {
+    "file": "15km | +389m | Grunewald | Trail | EC51.9 | Trail Testival Autumn 2026.gpx",
+    "name": "Trail Testival Autumn 2026",
+    "area": "Grunewald",
+    "surface": "Trail",
+    "distance_km": 15,
+    "elevation_m": 389,
+    "ec": 51.9,
+    "komoot": null,
+    "strava": null
+  },
+  {
+    "file": "21km | +202m | Potsdam  | Mixed | EC19.0 | Potsdam Sightseeing.gpx",
+    "name": "Potsdam Sightseeing",
+    "area": "Potsdam ",
+    "surface": "Mixed",
+    "distance_km": 21,
+    "elevation_m": 202,
+    "ec": 19.0,
+    "komoot": null,
+    "strava": null
+  },
+  {
+    "file": "22km | +145m | Wannsee  | Trail | EC13.4 | Half HHW to Gruni Tower.gpx",
+    "name": "Half HHW to Gruni Tower",
+    "area": "Wannsee ",
+    "surface": "Trail",
+    "distance_km": 22,
+    "elevation_m": 145,
+    "ec": 13.4,
+    "komoot": null,
+    "strava": null
+  },
+  {
+    "file": "22km | +250m | Wannsee | Trail | EC18.0 | Half HHW to Gruni Tower.gpx",
+    "name": "Half HHW to Gruni Tower",
+    "area": "Wannsee",
+    "surface": "Trail",
+    "distance_km": 22,
+    "elevation_m": 250,
+    "ec": 18.0,
+    "komoot": null,
+    "strava": null
+  },
+  {
+    "file": "24km | +232m | Potsdam | Mixed | EC19.2 | Ravensberge.gpx",
+    "name": "Ravensberge",
+    "area": "Potsdam",
+    "surface": "Mixed",
+    "distance_km": 24,
+    "elevation_m": 232,
+    "ec": 19.2,
+    "komoot": null,
+    "strava": null
   }
 ]
