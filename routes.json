@@ -989,18 +989,6 @@
     "early_exit_of": "18km | +290m | Grunewald | Trail | EC31.9 | #2 Gruni (S Heerstr. water fountain).gpx"
   },
   {
-    "file": "14km | +100m | Wannsee | Trail | EC12.8 | Half HHW EARLY EXIT.gpx",
-    "name": "Half HHW EARLY EXIT",
-    "area": "Wannsee",
-    "surface": "Trail",
-    "distance_km": 14,
-    "elevation_m": 100,
-    "ec": 12.8,
-    "komoot": null,
-    "strava": null,
-    "early_exit_of": "22km | +250m | Wannsee | Trail | EC18.0 | Half HHW to Gruni Tower.gpx"
-  },
-  {
     "file": "14km | +151m | Potsdam  | Mixed | EC20.9 | Ravensberge Early Exit.gpx",
     "name": "Ravensberge Early Exit",
     "area": "Potsdam ",
@@ -1066,17 +1054,6 @@
     "distance_km": 22,
     "elevation_m": 145,
     "ec": 13.4,
-    "komoot": null,
-    "strava": null
-  },
-  {
-    "file": "22km | +250m | Wannsee | Trail | EC18.0 | Half HHW to Gruni Tower.gpx",
-    "name": "Half HHW to Gruni Tower",
-    "area": "Wannsee",
-    "surface": "Trail",
-    "distance_km": 22,
-    "elevation_m": 250,
-    "ec": 18.0,
     "komoot": null,
     "strava": null
   },
